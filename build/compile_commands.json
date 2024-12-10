@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kali/DataBase/build",
+  "command": "/usr/bin/clang++-17  -I/home/kali/DataBase/../json/single_include -g -std=gnu++17 -o CMakeFiles/my_cpp_project.dir/main.cpp.o -c /home/kali/DataBase/main.cpp",
+  "file": "/home/kali/DataBase/main.cpp",
+  "output": "CMakeFiles/my_cpp_project.dir/main.cpp.o"
+}
+]

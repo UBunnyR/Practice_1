@@ -1,0 +1,3 @@
+/home/kali/DataBase/build/CMakeFiles/my_cpp_project.dir
+/home/kali/DataBase/build/CMakeFiles/edit_cache.dir
+/home/kali/DataBase/build/CMakeFiles/rebuild_cache.dir
